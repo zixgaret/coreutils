@@ -1,1 +1,1 @@
-mod help_func;
+pub mod help_func;
